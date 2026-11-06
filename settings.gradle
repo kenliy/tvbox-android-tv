@@ -1,0 +1,10 @@
+pluginManagement {
+    repositories {
+        maven { url "https://maven.aliyun.com/repository/google" }
+        maven { url "https://maven.aliyun.com/repository/central" }
+        gradlePluginPortal()
+    }
+}
+
+rootProject.name = "TVBoxAndroidTV"
+include ":app"

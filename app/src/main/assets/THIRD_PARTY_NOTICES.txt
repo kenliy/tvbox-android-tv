@@ -1,0 +1,18 @@
+TVBox Desktop Android TV port
+
+Based on TVBox Desktop: https://github.com/hgtuj5688/tvbox-deskTop
+Copyright (c) 2026 hgtuj5688
+Licensed under the MIT License.
+
+This Android TV port keeps the subscription format and CMS behavior while replacing
+Electron, React, ArtPlayer and Windows-specific APIs with native Android components.
+
+ExoPlayer
+https://github.com/google/ExoPlayer
+Copyright 2014 The Android Open Source Project
+Licensed under the Apache License 2.0.
+
+AndroidX
+https://github.com/androidx/androidx
+Copyright The Android Open Source Project
+Licensed under the Apache License 2.0.

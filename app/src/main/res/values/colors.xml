@@ -1,0 +1,11 @@
+<resources>
+    <color name="bg">#0D1116</color>
+    <color name="surface">#171E26</color>
+    <color name="surface_focused">#25313B</color>
+    <color name="accent">#4ED7BA</color>
+    <color name="warning">#F5C451</color>
+    <color name="text">#F4F7F9</color>
+    <color name="text_secondary">#AAB5BF</color>
+    <color name="danger">#FF7373</color>
+    <color name="transparent">#00000000</color>
+</resources>
